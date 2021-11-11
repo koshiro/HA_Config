@@ -1,0 +1,356 @@
+{
+    "version": 1,
+    "key": "core.restore_state",
+    "data": [
+        {
+            "state": {
+                "entity_id": "person.daniel_riquelme",
+                "state": "unknown",
+                "attributes": {
+                    "editable": false,
+                    "id": "daniel_riquelme",
+                    "user_id": "ac2170bc14ff4e66b69688e1a695c347",
+                    "friendly_name": "Daniel Riquelme"
+                },
+                "last_changed": "2021-11-11T00:02:29.574549+00:00",
+                "last_updated": "2021-11-11T00:02:41.343559+00:00",
+                "context": {
+                    "id": "31ece58974b8eaecb89e5c603e5ab22c",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_steps",
+                "state": "632",
+                "attributes": {
+                    "unit_of_measurement": "steps",
+                    "friendly_name": "danito Steps",
+                    "icon": "mdi:walk"
+                },
+                "last_changed": "2021-11-11T00:02:40.127246+00:00",
+                "last_updated": "2021-11-11T00:02:40.127246+00:00",
+                "context": {
+                    "id": "ac7703bf32fcbc9788854f2d0c2f5448",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_average_active_pace",
+                "state": "1",
+                "attributes": {
+                    "unit_of_measurement": "m/s",
+                    "friendly_name": "danito Average Active Pace",
+                    "icon": "mdi:speedometer"
+                },
+                "last_changed": "2021-11-11T00:02:40.129325+00:00",
+                "last_updated": "2021-11-11T00:02:40.129325+00:00",
+                "context": {
+                    "id": "0e12e461ba978e2e3649095452acaa66",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_distance",
+                "state": "361",
+                "attributes": {
+                    "unit_of_measurement": "m",
+                    "friendly_name": "danito Distance",
+                    "icon": "mdi:hiking"
+                },
+                "last_changed": "2021-11-11T00:02:40.129982+00:00",
+                "last_updated": "2021-11-11T00:02:40.129982+00:00",
+                "context": {
+                    "id": "319149e316d7212721d2a1ddf06e3b00",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_floors_descended",
+                "state": "8",
+                "attributes": {
+                    "unit_of_measurement": "floors",
+                    "friendly_name": "danito Floors Descended",
+                    "icon": "mdi:stairs-down"
+                },
+                "last_changed": "2021-11-11T00:02:40.130609+00:00",
+                "last_updated": "2021-11-11T00:02:40.130609+00:00",
+                "context": {
+                    "id": "d244882bf26311de44b3e37f4effea80",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_activity",
+                "state": "Walking",
+                "attributes": {
+                    "Confidence": "Medium",
+                    "Types": [
+                        "Walking"
+                    ],
+                    "friendly_name": "danito Activity",
+                    "icon": "mdi:walk"
+                },
+                "last_changed": "2021-11-11T00:02:40.131226+00:00",
+                "last_updated": "2021-11-11T00:02:40.131226+00:00",
+                "context": {
+                    "id": "b6cb42476ff35740ece833644f06f136",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_floors_ascended",
+                "state": "4",
+                "attributes": {
+                    "unit_of_measurement": "floors",
+                    "friendly_name": "danito Floors Ascended",
+                    "icon": "mdi:stairs-up"
+                },
+                "last_changed": "2021-11-11T00:02:40.131924+00:00",
+                "last_updated": "2021-11-11T00:02:40.131924+00:00",
+                "context": {
+                    "id": "9a33e920a5be68cd49f48add164143d2",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_battery_level",
+                "state": "94",
+                "attributes": {
+                    "unit_of_measurement": "%",
+                    "friendly_name": "danito Battery Level",
+                    "icon": "mdi:battery-90",
+                    "device_class": "battery"
+                },
+                "last_changed": "2021-11-11T00:02:40.132558+00:00",
+                "last_updated": "2021-11-11T00:02:40.132558+00:00",
+                "context": {
+                    "id": "c26978df91c638b004bee336978810e7",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_battery_state_2",
+                "state": "Not Charging",
+                "attributes": {
+                    "Low Power Mode": false,
+                    "friendly_name": "danito Battery State",
+                    "icon": "mdi:battery-90"
+                },
+                "last_changed": "2021-11-11T00:02:40.133172+00:00",
+                "last_updated": "2021-11-11T00:02:40.133172+00:00",
+                "context": {
+                    "id": "ce170836d7d6858bf05ae59c830d6789",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_storage",
+                "state": "5.79",
+                "attributes": {
+                    "Available": "4,35 GB",
+                    "Available (Important)": "9,39 GB",
+                    "Available (Opportunistic)": "3,71 GB",
+                    "Total": "63,98 GB",
+                    "unit_of_measurement": "% available",
+                    "friendly_name": "danito Storage",
+                    "icon": "mdi:database"
+                },
+                "last_changed": "2021-11-11T00:02:40.133783+00:00",
+                "last_updated": "2021-11-11T00:02:40.133783+00:00",
+                "context": {
+                    "id": "e10183ee05500b9f7a561d17e169c7cc",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_ssid",
+                "state": "LIB-4362867-5G",
+                "attributes": {
+                    "friendly_name": "danito SSID",
+                    "icon": "mdi:wifi"
+                },
+                "last_changed": "2021-11-11T00:02:40.134384+00:00",
+                "last_updated": "2021-11-11T00:02:40.134384+00:00",
+                "context": {
+                    "id": "860b2dd81a9248d98cfe886f9483e1fa",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_bssid",
+                "state": "34:2c:c4:c2:c2:b5",
+                "attributes": {
+                    "friendly_name": "danito BSSID",
+                    "icon": "mdi:wifi-star"
+                },
+                "last_changed": "2021-11-11T00:02:40.134985+00:00",
+                "last_updated": "2021-11-11T00:02:40.134985+00:00",
+                "context": {
+                    "id": "04d47f441585ea684f0933122bee9cb9",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_connection_type",
+                "state": "Wi-Fi",
+                "attributes": {
+                    "friendly_name": "danito Connection Type",
+                    "icon": "mdi:wifi"
+                },
+                "last_changed": "2021-11-11T00:02:40.136017+00:00",
+                "last_updated": "2021-11-11T00:02:40.136017+00:00",
+                "context": {
+                    "id": "e315722a97b29684dac139f2bd31de50",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_sim_1",
+                "state": "movistar",
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000001",
+                    "Carrier Name": "movistar",
+                    "Current Radio Technology": "Long-Term Evolution (LTE)",
+                    "ISO Country Code": "cl",
+                    "Mobile Country Code": "730",
+                    "Mobile Network Code": "02",
+                    "friendly_name": "danito SIM 1",
+                    "icon": "mdi:sim"
+                },
+                "last_changed": "2021-11-11T00:02:40.136799+00:00",
+                "last_updated": "2021-11-11T00:02:40.136799+00:00",
+                "context": {
+                    "id": "b8339a22e7bd1b6771ef968f80248e00",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_geocoded_location",
+                "state": "Unknown",
+                "attributes": {
+                    "friendly_name": "danito Geocoded Location",
+                    "icon": "mdi:map"
+                },
+                "last_changed": "2021-11-11T00:02:40.137436+00:00",
+                "last_updated": "2021-11-11T00:02:40.137436+00:00",
+                "context": {
+                    "id": "fbd033fe2ce86dc144c2f459865c6d42",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.danito_last_update_trigger",
+                "state": "Launch",
+                "attributes": {
+                    "friendly_name": "danito Last Update Trigger",
+                    "icon": "mdi:cellphone-wireless"
+                },
+                "last_changed": "2021-11-11T00:02:40.138049+00:00",
+                "last_updated": "2021-11-11T00:02:40.138049+00:00",
+                "context": {
+                    "id": "e5da7e5b332d09c3d8978cc847b27913",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.danito_focus",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "danito Focus",
+                    "icon": "mdi:moon-waning-crescent"
+                },
+                "last_changed": "2021-11-11T00:02:40.138701+00:00",
+                "last_updated": "2021-11-11T00:02:40.138701+00:00",
+                "context": {
+                    "id": "476004d70b1e065bab140df50fd9c7a1",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "device_tracker.danito_2",
+                "state": "unknown",
+                "attributes": {
+                    "source_type": "gps",
+                    "friendly_name": "danito"
+                },
+                "last_changed": "2021-11-11T00:02:40.139503+00:00",
+                "last_updated": "2021-11-11T00:02:40.139503+00:00",
+                "context": {
+                    "id": "b6f51107094ee2235b4e58a571c47901",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-11-11T00:32:41.344848+00:00"
+        }
+    ]
+}
